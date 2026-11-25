@@ -1,0 +1,7 @@
+bin/
+obj/
+*.pfx
+*.p12
+*.xml
+*.pem
+*.key
